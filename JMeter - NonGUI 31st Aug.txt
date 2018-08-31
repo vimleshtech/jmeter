@@ -1,0 +1,88 @@
+JDK: java development kit
+===========================
+There are following component of JDK:
+
+-Javac	 : java compiler which convert java source code to byte code
+	 : here source code .java / .jmx and byte code is .class
+	
+-JVM(JIT): java virtual machine (memory allocation , deallocation, 				 garbage collection)
+	 : just in time which is interpreter
+	 : JIT converts byte code (.class) into machine language
+
+-JRE	: java runtime environment / is also known as library 
+
+
+JDK Version :
+---------------
+JDK 10, 1.8** , 1.7, 1.6, 1.5,1.4.....
+JMeter supports JDK 1.5+ version 
+
+
+->Install JDK 
+	http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htm	
+
+->Confirm JDK installation
+  ->Open the cmd 
+  ->type 
+		java -version 	
+
+
+
+Java code Editor:
+==================
+-Eclipse		
+		-Oxygen
+		-Neon
+			3
+			2
+			1
+		-Mars
+		-Juno
+		-Galalio
+		etc.
+		
+
+Coding Fundamental or Concepts
+==================================
+Java : is object oriented programing language which is plateform independent.
+     : Support to all operating system  (win, linux, mac ) 	e.t.c
+
+Concepts:
+=============
+Class		: is wrapper of data member/attribute and function/method 
+Object		: is an instance of class 
+Encapsulation   : is wrapping of data member and function in single/one unit 
+Abstraction /Data hiding: to exposre the essential features of class and hide the 			implementaion i.e. abstraction.
+Constructor 
+Inheritence
+
+
+Function/Methods
+Variable		: is temp. memory where data can be stored
+DataType		: is type of container 
+Condition 		
+Loop 
+Input/Output
+
+
+XML : extensible markup language
+===================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
